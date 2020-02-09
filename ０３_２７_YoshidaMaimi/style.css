@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* ページの基本設定 */
+
+body {
+    display: block;
+    margin: 8px;
+}
+
+#message {
+    font-size: xx-large;
+}
+button{
+    padding: 10px;
+    margin: 20px;
+}
+
+#message{
+    font-size:xx-large;
+}
+img{
+    height: 200px;
+}
+
